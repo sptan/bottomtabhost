@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomTabHostTest</string>
+    <string name="information_title">资讯</string>
+    <string name="topic_title">话题</string>
+    <string name="discover_title">发现</string>
+    <string name="me_title">我</string>
+</resources>
